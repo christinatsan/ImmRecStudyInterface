@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Please answer the following questions</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.8/semantic.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.8/semantic.min.css" rel="stylesheet" />
+
+    <style>
+    h1.likert-header {
+  padding-left:4.25%;
+  margin:20px 0 0;
+}
+form .statement {
+  display:block;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 30px 0 0 4.25%;
+  margin-bottom:10px;
+}
+form .likert {
+  list-style:none;
+  width:100%;
+  margin:0;
+  padding:0 0 35px;
+  display:block;
+  border-bottom:2px solid #efefef;
+}
+form .likert:last-of-type {border-bottom:0;}
+form .likert:before {
+  content: '';
+  position:relative;
+  top:11px;
+  left:9.5%;
+  display:block;
+  background-color:#efefef;
+  height:4px;
+  width:78%;
+}
+form .likert li {
+  display:inline-block;
+  width:19%;
+  text-align:center;
+  vertical-align: top;
+}
+form .likert li input[type=radio] {
+  display:block;
+  position:relative;
+  top:0;
+  left:50%;
+  margin-left:-6px;
+  
+}
+form .likert li label {width:100%;}
+form .buttons {
+  margin:30px 0;
+  padding:0 4.25%;
+  text-align:right
+} 
+form .buttons button {
+  padding: 5px 10px;
+  background-color: #67ab49;
+  border: 0;
+  border-radius: 3px;
+}
+form .buttons .clear {background-color: #e9e9e9;}
+form .buttons .submit {background-color: #67ab49;} 
+form .buttons .clear:hover {background-color: #ccc;}
+form .buttons .submit:hover {background-color: #14892c;}
+
+    </style>
+  </head>
+  <body>
+
+<div style="padding-top: 5%" class="container">
+<form>
+
+
+  <div class="ui segment">  
+
+  <h3 class="ui dividing header">Demographics</h3>
+
+    <div class="ui labeled input">
+      <div class="ui label">Name</div>
+      <input type="text" placeholder="">
+    </div>
+  <br><br> 
+    <div class="ui labeled input">
+      <div class="ui label">Age</div>
+      <input type="text" placeholder="">
+    </div> 
+  <br><br>
+    <div class="ui labeled input">
+      <div class="ui label">Gender</div>
+      <input type="text" placeholder="">
+    </div>
+  <br><br> 
+    <div class="ui labeled input">
+      <div class="ui label">Major</div>
+      <input type="text" placeholder="">
+    </div>
+  <br><br>
+    <div class="ui labeled input">
+      <div class="ui label">College</div>
+      <input type="text" placeholder="">
+    </div>
+  <br><br>
+    <div class="ui labeled input">
+      <div class="ui label">Mobile Device</div>
+      <input type="text" placeholder="">
+    </div>
+  <br><br>
+
+  </div>
+
+  <div class="ui segment">
+    <h3 class="ui dividing header">Which option most closely represents your consumption frequency in each medium?</h3>
+    <div class="row">
+    <div class="col"> 
+     <form>
+      <div class="row">
+        <div class="col-4">
+        <label><strong>Newspapers</strong></label>
+        </div>
+        <div class="col-8">        
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>Never</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>Occasionally</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>Once a week</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>Once a day</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>Multiple times a day</label>
+            </li>
+          </ul> 
+         </div>
+      </div>                 
+      </form>     
+     <form>
+      <div class="row">
+        <div class="col-4">
+        <label><strong>Radio</strong></label>
+        </div>
+        <div class="col-8">        
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>Never</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>Occasionally</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>Once a week</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>Once a day</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>Multiple times a day</label>
+            </li>
+          </ul> 
+       </div>
+    </div>                
+    </form>
+     <form>
+      <div class="row">
+        <div class="col-4">
+        <label><strong>Youtube</strong></label>
+        </div>
+        <div class="col-8">        
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>Never</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>Occasionally</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>Once a week</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>Once a day</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>Multiple times a day</label>
+            </li>
+          </ul>  
+      </div>
+    </div>                
+    </form>    
+     <form>
+      <div class="row">
+        <div class="col-4">
+        <label><strong>Social Networks</strong></label>
+        </div>
+        <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>Never</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>Occasionally</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>Once a week</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>Once a day</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>Multiple times a day</label>
+            </li>
+          </ul> 
+      </div>
+    </div>                
+    </form>    
+     <form>
+      <div class="row">
+        <div class="col-4">
+        <label><strong>Podcasts</strong></label>
+        </div>
+        <div class="col-8">      
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>Never</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>Occasionally</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>Once a week</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>Once a day</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>Multiple times a day</label>
+            </li>
+          </ul> 
+       </div>
+    </div>                
+    </form>    
+     <form>
+      <div class="row">
+        <div class="col-4">
+      <label><strong>Blogs</strong></label>
+        </div>
+        <div class="col-8">      
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>Never</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>Occasionally</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>Once a week</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>Once a day</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>Multiple times a day</label>
+            </li>
+          </ul> 
+      </div>
+    </div>                  
+    </form>    
+     <form>
+      <div class="row">
+        <div class="col-4">
+        <label><strong>TV</strong></label>
+        </div>
+        <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>Never</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>Occasionally</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>Once a week</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>Once a day</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>Multiple times a day</label>
+            </li>
+          </ul>  
+       </div>
+      </div>       
+    </form>
+  </div>
+  <div class="col">
+  </div>
+  </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="ui segment">
+    <h3 class="ui dividing header">Please rate how often you consume each of the following topics</h3> 
+    <div class="row">
+    <div class="col">   
+    <form>
+      <div class="row">
+        <div class="col-4">
+        <label><strong>Arts & Literature</strong></label>
+        </div>
+        <div style="border-right: 2px solid #D3D3D3;" class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+    </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">      
+      <label><strong>Business</strong></label>
+      </div>
+        <div style="border-right: 2px solid #D3D3D3;" class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+    </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">       
+      <label><strong>Comedy</strong></label>
+      </div>
+        <div style="border-right: 2px solid #D3D3D3;"  class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">       
+      <label><strong>Education</strong></label>
+      </div>
+        <div style="border-right: 2px solid #D3D3D3;" class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">       
+      <label><strong>Food</strong></label>
+      </div>
+        <div style="border-right: 2px solid #D3D3D3;" class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">       
+      <label><strong>Fashion & Beauty</strong></label>
+      </div>
+        <div style="border-right: 2px solid #D3D3D3;" class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form> 
+    <form>
+      <div class="row">
+      <div class="col-4">       
+      <label><strong>Games & Hobbies</strong></label>
+      </div>
+        <div style="border-right: 2px solid #D3D3D3;" class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">      
+      <label><strong>Government & Organization</strong></label>
+      </div>
+        <div style="border-right: 2px solid #D3D3D3;" class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">       
+      <label><strong>Health</strong></label>
+      </div>
+        <div style="border-right: 2px solid #D3D3D3;" class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form>
+    </div>
+    <div class="col">
+    <form>
+      <div class="row">
+      <div class="col-4">       
+      <label><strong>Kids & Family</strong></label>
+      </div>
+        <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form> 
+    <form>
+      <div class="row">
+      <div class="col-4">      
+      <label><strong>Music</strong></label>
+      </div>
+        <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form> 
+    <form>
+      <div class="row">
+      <div class="col-4">      
+      <label><strong>News & Politics</strong></label>
+      </div>
+        <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">      
+      <label><strong>Religion & Spirituality</strong></label>
+      </div>
+        <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">      
+      <label><strong>Science & Medicine</strong></label>
+      </div>
+        <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form> 
+    <form>
+      <div class="row">
+      <div class="col-4">       
+      <label><strong>Society & Culture</strong></label>
+      </div>
+       <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">      
+      <label><strong>Sports & Recreation</strong></label>
+      </div>
+        <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form>
+    <form>
+      <div class="row">
+      <div class="col-4">      
+      <label><strong>TV & Film</strong></label>
+      </div>
+        <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+      </div>
+    </form> 
+    <form>
+      <div class="row">
+      <div class="col-4">      
+      <label><strong>Technology</strong></label>
+      </div>
+       <div class="col-8">
+          <ul class='likert'>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_1" value="strong_agree" checked="checked">
+              <label>1 (Never)</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_2" value="strong_agree">
+              <label>2</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_3" value="strong_agree">
+              <label>3</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_4" value="disagree">
+              <label>4</label>
+            </li>
+            <li>
+              <input type="radio" name="likert" name="history_likert_response_5" value="strong_agree">
+              <label>5 (Always)</label>
+            </li>
+          </ul>        
+      </div>
+    </div>
+    </form>
+  </div>
+  </div>
+  </div>
+
+  <p><a href={{ url_for('categories_pod') }}>
+    <button class="btn btn-info" type="submit">Next</button></p></a>
+  </form>
+
+  </div>
+
+ 
+
+   </body>
+</html>

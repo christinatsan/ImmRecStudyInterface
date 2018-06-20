@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Choose a Category</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.8/semantic.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.8/semantic.min.css" rel="stylesheet" />
+
+<style>
+/* * {
+    box-sizing: border-box;
+}
+ */
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 100px;
+    text-align: center;
+    cursor:pointer;
+}
+
+.column:hover{
+   background-color:#377BB5;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+ul.list-group.list-group-hover li:hover{
+    background: #377BB5;
+}
+
+.center {
+    padding: 30px 0;
+
+}
+</style>
+
+  </head>
+  <body>
+    <div class="container">
+<!--   <h3>Podcasts</h3> -->
+  
+
+<!--   <div class="row"> -->
+
+      <br><br>
+
+        <h3>Choose subtopics you aspire to listen to (optional)</h3>
+
+          <div class="row">
+
+            <div class="col-10">
+              
+              <h6>If you would like fine-grained recommendations, please choose subtopics from each list</h6>
+            </div>
+
+            <div class="col-2">
+              <button onClick="clickFunction()" class="btn btn-info">Next</button>
+            </div>
+          </div>
+
+
+
+          <div class="ui divider"></div>
+
+        <div class="row">
+          <div class="col-4">
+
+        {% for topCategory in aspirationCategories %}
+
+        <h3 class="ui top attached block header">{{topCategory}}</h3>
+        <div class="ui attached segment">
+          <ul class = "list-group list-group-hover">
+          {% for category in aspirationCategories[topCategory] %}
+          <li class="list-group-item aspiration">{{category}}</li>
+          {% endfor %}
+          </ul>
+        </div>
+
+        <br>
+        {% endfor %}
+
+          </div>
+
+       
+
+        <div class="col-4">
+        </div>
+
+        <div class="col-4">
+        </div>
+
+       </div>
+
+        
+
+
+
+<!--         
+  </div> -->
+
+  <br><br>
+
+  
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script type="text/javascript">
+    $(".list-group .list-group-item").click(function(e) {
+      $(e.target).toggleClass("active");
+    });
+
+    function clickFunction() {
+      var histitems = document.getElementsByClassName("history active");
+      histstring = [].map.call( histitems, function(node){
+        return node.textContent || node.innerText || "";
+      }).join(",");      
+
+
+      var aspitems = document.getElementsByClassName("aspiration active");
+      aspstring = [].map.call( aspitems, function(node){
+        return node.textContent || node.innerText || "";
+      }).join(",");
+
+      console.log(histstring)
+      console.log(aspstring)
+
+      // window.location.href = '/recommendations_pop' 
+      
+
+      window.location.href = '/recommendations_pod/' + histstring + '+' + aspstring
+      
+
+    }
+      
+    
+
+
+
+  </script>
+
+</div>
+    
+  </body>
+</html>

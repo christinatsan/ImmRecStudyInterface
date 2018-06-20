@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> IRB Consent Form </title>
+         <!-- Bootstrap -->
+         <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        
+         
+         <!-- Added styling -->
+         <link href='http://fonts.googleapis.com/css?family=Lato:400,700,bold' rel='stylesheet' type='text/css'>
+         <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='stylesheets/style.css') }}" />
+         
+    </head>
+    <body>
+        <!-- start of consent form -->
+        <div style="width: 70%; margin:auto; border: 1px solid black; padding: 20px;">
+            <h2 align="middle"> Consent Form for Lab Study</h2>
+            <br>
+
+            We are asking you to participate in a research study. This form is designed to give you information about this study.  We will describe this study to you and answer any of your questions.  
+            <br>
+            <br>
+            
+            <b>Project Title:</b> Immersive Recommendation
+
+            <br>
+            <br>
+
+            <b>What the study is about</b><br>
+            The purpose of this research is to evaluate the <b>immersive recommendation model</b> and explore the feasibility of using users’ own diverse digital traces, including historically-observed data, to infer and recommend podcast content that a user would be interested in. It is “immersive” as it learns users’ interests from diverse personal data. This new recommendation model has the potential to infer a wide range of interests of a person and to contribute to more personalized user experiences.
+            <br>
+            <br>
+            
+            <b>What we will ask you to do</b><br>
+            We will ask you to participate in our recommendation experiment carried out through video conferencing with an audio recording device. You will use a secure web app to complete the experiment. The experiment consists of five parts:
+            <ol class="decimal">
+                <li>You will be asked to share your web screen displaying the web app. The web app will present a short survey and a set of topics. You will be asked to fill out the survey and then select the topics that you are interested in listening to for the following weeks.</li>
+                <li>The web app will then present a list of podcast episodes with titles and descriptions. You will be asked to rate the podcast episodes based on your preferences. These items are selected by different recommendation algorithms.</li>
+                <li>You will be interviewed and asked a range of questions about podcast listening and content consumption. No prior knowledge about podcast listening is required.</li>
+                <li>The web app will present a list of channels. You will be asked to select and subscribe to the channels that you are interested in listening to for the following weeks. These items are selected by different recommendation algorithms.</li>
+                <li>Finally, you will be asked to install a secure mobile app. You will be receiving login instructions and account information via email.</li>                
+            </ol>
+
+            <b>Benefits</b><br>
+            Note that there is no direct benefit to you.<br>
+            <br>
+
+            <b>Payment for participation</b><br>
+            You will receive compensation of $30.00 dollars for your time at the end of the lab and field study.
+            <br>
+            <br>
+
+            <b>Audio Recording</b><br>
+            This study involves the audio recording of your interview. An audio recording device will be used. Your responses in the interview may be transcribed and analyzed for research purposes. Only the research team will be able to listen to the recording. 
+            <br>
+            <br>
+            The audio will be transcribed and erased once the transcript is checked for accuracy. Transcripts of your interview may be reproduced in whole or in part for use in presentations or written products that result from this study. Neither your name nor any identifying information will be used in presentations or in written products resulting from the study.             
+            <br>
+            <br>
+
+            <b>Privacy/Confidentiality</b><br>
+            The data we will store are 1) the responses entered by you in the survey, 2) the preferences indicated by you for each of the presented items, 3) the ratings indicated by you on a scale for each of the presented items, 4) the transcript of your interview, and 5) the subscriptions selected by you for each of the presented channels. These data will be encrypted and stored anonymously in a secure server administered by the professional trained personnel. These derived data will be retained for analysis for up to 24 months to support reporting on results. All records will only be available to authorized researchers participating in this study and will not be provided to other third party organizations. We anticipate that your participation in this study presents no greater risk than everyday use of the Internet.
+            <br>
+            <br>
+
+            <b>Taking part is voluntary</b><br>
+            Your involvement is voluntary, you may refuse to participate before the study begins, discontinue at any time, or skip any questions/procedures that may make you feel uncomfortable, with no penalty to you, and no effect on your academic standing, record, or relationship with the university or other organization or service that may be involved with the research.
+            <br>
+            <br>
+
+            <b>If you have questions</b><br>
+            The main researcher conducting this study is Longqi Yang, a graduate student at Cornell University. If you have any questions at the time of the study please let us know and we will address your concerns and questions. If you have questions later, you may contact Longqi Yang at ylongqi@cs.cornell.edu or at 607-379-5596. If you have any questions or concerns regarding your rights as a subject in this study, you may contact the Institutional Review Board (IRB) for Human Participants at 607-255-6182 or access their website at http://www.irb.cornell.edu. You may also report your concerns or complaints anonymously through Ethicspoint online at www.hotline.cornell.edu or by calling toll free at 1-866-293-3077. Ethicspoint is an independent organization that serves as a liaison between the University and the person bringing the complaint so that anonymity can be ensured.
+            <br>
+            You will be given a copy of this form to keep for your records.  
+
+        </div>
+        <!-- End of Form -->
+
+        <br>
+        <br>
+        <br>
+
+        <!-- Control Buttons -->
+        <div style="width: 70%; margin:auto; border: 1px solid black; padding: 20px;">
+            <b>Statement of Consent</b><br>
+            I have read the above information, and have received answers to any questions I asked. I consent to take part in the study.
+
+            This consent form will be kept by the researcher for at least five years beyond the end of the study.
+            <br>
+            <br>
+            <button type="button" class="btn btn-danger" onclick="window.location='/logout'" style="float:left;"> Cancel </button>
+            <button type="button" class="btn btn-primary" onclick="window.location='/consent2'" style="float:right;"> Accept and Continue </button>
+            <br>
+        </div>
+
+    </body>

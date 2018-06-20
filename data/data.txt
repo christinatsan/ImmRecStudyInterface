@@ -1,0 +1,163 @@
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Music": [], "News & Politics": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Music": [], "News & Politics": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Music": [], "News & Politics": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Music": [], "News & Politics": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Music": [], "News & Politics": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Music": [], "News & Politics": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Music": [], "News & Politics": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Music": [], "News & Politics": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Music": [], "News & Politics": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Music": [], "News & Politics": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Religion & Spirituality": ["Buddhism", "Christianity", "Islam", "Judaism", "Spirituality", "Hinduism", "Other"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Religion & Spirituality": ["Buddhism", "Christianity", "Islam", "Judaism", "Spirituality", "Hinduism", "Other"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": [], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": [], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": [], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": [], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": [], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": [], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": [], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": [], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": []}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Government & Organizations": ["National", "Regional", "Local", "Non-Profit"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Government & Organizations": ["National", "Regional", "Local", "Non-Profit"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Government & Organizations": ["National", "Regional", "Local", "Non-Profit"], "Religion & Spirituality": ["Buddhism", "Christianity", "Islam", "Judaism", "Spirituality", "Hinduism", "Other"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"]}}
+{"s-history": {}}
+{"s-aspiration": {"Comedy": [], "Kids & Family": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "TV & Film": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"]}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": []}}
+{"s-history": {}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": []}}
+{"d-history": {}}
+{"d-aspiration": {"Kids & Family": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Government & Organizations": ["National", "Regional", "Local", "Non-Profit"]}}
+{"d-history": {}}
+{"d-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "TV & Film": []}}
+{"d-history": {}}
+{"d-aspiration": {"Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": [], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"]}}
+{"d-history": {}}
+{"d-aspiration": {"Comedy": [], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"]}}
+{"d-history": {}}
+{"d-aspiration": {"Comedy": []}}
+{"d-history": {}}
+{"d-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"]}}
+{"me-history": {}}
+{"me-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Comedy": [], "Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"me-history": {}}
+{"me-aspiration": {"Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"], "Kids & Family": [], "Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"]}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"]}}
+{"s-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"]}}
+{"l-aspiration": {"Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"k-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"]}}
+{"k-aspiration": {"Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"k-aspiration": {"Kids & Family": [], "Music": [], "News & Politics": []}}
+{"k-aspiration": {"Kids & Family": [], "Music": [], "News & Politics": []}}
+{"k-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"], "Kids & Family": [], "Music": [], "News & Politics": []}}
+{"k-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Comedy": []}}
+{"k-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Comedy": []}}
+{"k-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"k-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"], "Music": []}}
+{"k-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"]}}
+{"k-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"]}}
+{"k-aspiration": {"Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"k-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"k-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"k-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"]}}
+{"k-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"]}}
+{"k-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"]}}
+{"d-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"]}}
+{"d-aspiration": {"Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"]}}
+{"d-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"]}}
+{"d-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Comedy": []}}
+{"d-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"]}}
+{"d-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Comedy": []}}
+{"d-aspiration": {"Comedy": [], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"]}}
+{"d-aspiration": {"Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Comedy": []}}
+{"d-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"]}}
+{"d-aspiration": {"Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"d-aspiration": {"Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Comedy": []}}
+{"d-aspiration": {"Comedy": []}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"d-aspiration": {"Sports & Recreation": ["Outdoor", "Professional", "College & High School", "Amateur"]}}
+{"d-aspiration": {"Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"]}}
+{"d-aspiration": {"Music": []}}
+{"d-aspiration": {"Music": []}}
+{"d-aspiration": {"Music": [], "Religion & Spirituality": ["Buddhism", "Christianity", "Islam", "Judaism", "Spirituality", "Hinduism", "Other"]}}
+{"d-aspiration": {"Religion & Spirituality": ["Buddhism", "Christianity", "Islam", "Judaism", "Spirituality", "Hinduism", "Other"]}}
+{"d-aspiration": {"Religion & Spirituality": ["Buddhism", "Christianity", "Islam", "Judaism", "Spirituality", "Hinduism", "Other"]}}
+{"d-aspiration": {"Religion & Spirituality": ["Buddhism", "Christianity", "Islam", "Judaism", "Spirituality", "Hinduism", "Other"]}}
+{"d-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"]}}
+{"d-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"]}}
+{"d-aspiration": {"Comedy": []}}
+{"d-aspiration": {"News & Politics": []}}
+{"d-aspiration": {"Religion & Spirituality": ["Buddhism", "Christianity", "Islam", "Judaism", "Spirituality", "Hinduism", "Other"]}}
+{"l;-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Comedy": [], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"], "Kids & Family": []}}
+{"l;-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Comedy": [], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"], "Kids & Family": []}}
+{"l;-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Comedy": [], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"], "Kids & Family": []}}
+{"l;-aspiration": {"Arts": ["Food", "Literature", "Design", "Performing Arts", "Visual Arts", "Fashion & Beauty"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Comedy": [], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"], "Kids & Family": []}}
+{"dk-aspiration": {"Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"], "Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"], "Kids & Family": []}}
+{"f-aspiration": {"Food": []}}
+{"f-aspiration": {"Arts": ["Literature", "Design", "Performing Arts", "Visual Arts"], "Food": []}}
+{"f-aspiration": {"Arts & Literature": ["Literature", "Design", "Performing Arts", "Visual Arts"], "Science & Medicine": ["Natural Sciences", "Medicine", "Social Sciences"]}}
+{"dk-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"dk-aspiration": {"Fashion & Beauty": []}}
+{"d-aspiration": {"Fashion & Beauty": []}}
+{"d-aspiration": {"Food": []}}
+{"me-aspiration": {"Food": []}}
+{"Christina-aspiration": {"Arts & Literature": ["Literature", "Design", "Performing Arts", "Visual Arts"]}}
+{"Christina-aspiration": {"Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"]}}
+{"me-aspiration": {"Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Food": []}}
+{"me-aspiration": {"Food": []}}
+{"me-aspiration": {"Arts & Literature": ["Literature", "Design", "Performing Arts", "Visual Arts"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Music": []}}
+{"me-aspiration": {"Music": []}}
+{"me-aspiration": {"Fashion & Beauty": []}}
+{"me-aspiration": {"Arts & Literature": ["Literature", "Design", "Performing Arts", "Visual Arts"]}}
+{"me-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
+{"me-aspiration": {"Arts & Literature": ["Literature", "Design", "Performing Arts", "Visual Arts"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"]}}
