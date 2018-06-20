@@ -90,6 +90,9 @@ form .buttons .submit:hover {background-color: #14892c;}
   <div class="item">
      <h3>Imagine you are using a new podcast app - please choose 1 to 10 channels you want to subscribe to</h3>
   </div>
+  <div class="item">
+    <p id="subscribeCount"></p>
+  </div>
   <div class="right menu">
   <a class="item"><button class="btn btn-info" onClick="doneClickFunction()">Done</button></a>
   </div>
@@ -102,8 +105,11 @@ form .buttons .submit:hover {background-color: #14892c;}
 
 
      
-
-
+<!-- 
+<button type="button" class="btn btn-outline-primary" data-toggle="button" aria-pressed="false" autocomplete="off">
+  Single toggle
+</button>
+ -->
 
 
 <table class="ui celled blue table">
@@ -135,7 +141,7 @@ form .buttons .submit:hover {background-color: #14892c;}
       <td>
 
         <div style="padding-top: 10%" >
-        <button id="{{i}}" class="ui toggle button">Subscribe</button>
+        <button id="{{i}}" class="ui toggle button" onClick="subscribeFunction()">Subscribe</button>
         </div>
 
     </td>
@@ -170,13 +176,34 @@ $(function() {
         for(i=0; i<items.length; i++){
           var id = items[i].id;
           var articles = {{ articles|safe }}
-          var article = articles[i]
+          var article = articles[id]
+          console.log(article)
           subscribedItems  = subscribedItems + "+" + article
         }
 
 
 
         window.location.href = '/channels/' + subscribedItems     
+      }
+
+      function subscribeFunction() {
+
+        var items = document.getElementsByClassName("active");
+        // var length = 0
+        // for(i=0; i<items.length; i++){
+        //   if (items[i].innerHTML == "Subscribed"){
+        //     length += 1
+
+        //   }
+        // }
+        // var length = items.length + 1;
+
+        console.log(items.length)
+
+        document.getElementById("subscribeCount").innerHTML = length
+        
+
+
       }
 
 

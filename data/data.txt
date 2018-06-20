@@ -161,3 +161,9 @@
 {"me-aspiration": {"Arts & Literature": ["Literature", "Design", "Performing Arts", "Visual Arts"]}}
 {"me-aspiration": {"Health": ["Fitness & Nutrition", "Self-Help", "Sexuality", "Alternative Health"]}}
 {"me-aspiration": {"Arts & Literature": ["Literature", "Design", "Performing Arts", "Visual Arts"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"]}}
+{"ne-aspiration": {"Arts & Literature": ["Literature", "Design", "Performing Arts", "Visual Arts"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"]}}
+{"christina-aspiration": {"Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"], "Education": ["K-12", "Higher Education", "Educational Technology", "Language Courses", "Training"], "Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"me-aspiration": {"Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"me-aspiration": {"Games & Hobbies": ["Video Games", "Automotive", "Aviation", "Hobbies", "Other Games"]}}
+{"test3-aspiration": {"Arts & Literature": ["Literature", "Design", "Performing Arts", "Visual Arts"]}}
+{"test4-aspiration": {"Arts & Literature": ["Literature", "Design", "Performing Arts", "Visual Arts"], "Business": ["Careers", "Investing", "Management & Marketing", "Business News", "Shopping"]}}
